@@ -1,0 +1,9 @@
+Report file: ex3.rpt
+5 Jobs:
+(1, 5, 6) (1, 6, 12) (2, 4, 16) (3, 5, 21) (4, 1, 22) 
+
+***********************************************************
+1 processor: totalWait=45 maxWait=17 averageWait=9.0
+2 processor: totalWait=14 maxWait=6 averageWait=2.8
+3 processor: totalWait=6 maxWait=3 averageWait=1.2
+4 processor: totalWait=2 maxWait=2 averageWait=0.4

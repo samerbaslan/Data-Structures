@@ -1,0 +1,16 @@
+/* Samer Baslan
+   sbaslan
+   CMPS 12B
+   07/15/2017
+   README file for Search.java  functionality
+   README
+*/
+
+Files:
+README
+Makefile
+Search.java
+
+Usage: Search inputfile target1 [target2 target3]
+Search.java will search the inputfile and determine if target word is found and report the line it was found on
+

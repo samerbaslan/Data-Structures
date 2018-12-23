@@ -1,0 +1,15 @@
+/* Samer Baslan
+   sbaslan
+   CMPS 12B
+   07/24/2017
+   README for PA3
+*/
+
+README
+Dictionary.java (Node class contains two String fields)
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DictionaryClient.java
+Makefile
