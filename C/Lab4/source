@@ -1,0 +1,619 @@
+line13 alphabetic characters: includestdioh 
+0 numeric character:  
+4 punctuation characters: #<.> 
+3 whitespace characters:  
+ 
+line14 alphabetic characters: includestdlibh 
+0 numeric character:  
+4 punctuation characters: #<.> 
+3 whitespace characters:  
+ 
+line13 alphabetic characters: includectypeh 
+0 numeric character:  
+4 punctuation characters: #<.> 
+3 whitespace characters:  
+ 
+line14 alphabetic characters: includeasserth 
+0 numeric character:  
+4 punctuation characters: #<.> 
+3 whitespace characters:  
+ 
+line14 alphabetic characters: includestringh 
+0 numeric character:  
+4 punctuation characters: #<.> 
+3 whitespace characters:  
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+2 whitespace characters: 
+ 
+line21 alphabetic characters: defineMAXSTRINGLENGTH 
+3 numeric characters: 100 
+3 punctuation characters: #__ 
+4 whitespace characters:   
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+2 whitespace characters: 
+ 
+line41 alphabetic characters: voidextractcharscharscharachardcharpcharw 
+0 numeric character:  
+13 punctuation characters: _(*,*,*,*,*){ 
+12 whitespace characters:           
+ 
+line4 alphabetic characters: inti 
+1 numeric character: 0 
+2 punctuation characters: =; 
+6 whitespace characters: 	   
+ 
+line4 alphabetic characters: intj 
+1 numeric character: 0 
+2 punctuation characters: =; 
+6 whitespace characters: 	   
+ 
+line4 alphabetic characters: intk 
+1 numeric character: 0 
+2 punctuation characters: =; 
+6 whitespace characters: 	   
+ 
+line4 alphabetic characters: intl 
+1 numeric character: 0 
+2 punctuation characters: =; 
+6 whitespace characters: 	   
+ 
+line4 alphabetic characters: intm 
+1 numeric character: 0 
+2 punctuation characters: =; 
+6 whitespace characters: 	   
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+2 whitespace characters: 
+ 
+line23 alphabetic characters: whileiMAXSTRINGLENGTHsi 
+1 numeric character: 0 
+15 punctuation characters: (<__&&[]!='\'){ 
+10 whitespace characters: 	       
+ 
+line39 alphabetic characters: ifisalphaintsicheckifstringisalphabetic 
+0 numeric character:  
+11 punctuation characters: ((()[])){// 
+10 whitespace characters: 		      
+ 
+line4 alphabetic characters: ajsi 
+0 numeric character:  
+6 punctuation characters: []=[]; 
+7 whitespace characters: 			  
+ 
+line1 alphabetic character: j 
+0 numeric character:  
+3 punctuation characters: ++; 
+5 whitespace characters: 			
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line40 alphabetic characters: elseifisdigitintsicheckifstringisnumeric 
+0 numeric character:  
+11 punctuation characters: ((()[])){// 
+11 whitespace characters: 		       
+ 
+line4 alphabetic characters: dksi 
+0 numeric character:  
+6 punctuation characters: []=[]; 
+7 whitespace characters: 			  
+ 
+line1 alphabetic character: k 
+0 numeric character:  
+3 punctuation characters: ++; 
+5 whitespace characters: 			
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line36 alphabetic characters: elseifispunctintsicheckifpunctuation 
+0 numeric character:  
+11 punctuation characters: ((()[])){// 
+9 whitespace characters: 		     
+ 
+line4 alphabetic characters: plsi 
+0 numeric character:  
+6 punctuation characters: []=[]; 
+7 whitespace characters: 			  
+ 
+line1 alphabetic character: l 
+0 numeric character:  
+3 punctuation characters: ++; 
+5 whitespace characters: 			
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line35 alphabetic characters: elseifisspaceintsicheckifwhitespace 
+0 numeric character:  
+11 punctuation characters: ((()[])){// 
+9 whitespace characters: 		     
+ 
+line4 alphabetic characters: wmsi 
+0 numeric character:  
+6 punctuation characters: []=[]; 
+7 whitespace characters: 			  
+ 
+line1 alphabetic character: m 
+0 numeric character:  
+3 punctuation characters: ++; 
+5 whitespace characters: 			
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line1 alphabetic character: i 
+0 numeric character:  
+3 punctuation characters: ++; 
+4 whitespace characters: 		
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line51 alphabetic characters: nullcharacterterminationmakingthemintovalidCstrings 
+0 numeric character:  
+3 punctuation characters: //, 
+11 whitespace characters: 	        
+ 
+line2 alphabetic characters: aj 
+1 numeric character: 0 
+7 punctuation characters: []='\'; 
+5 whitespace characters: 	  
+ 
+line2 alphabetic characters: dk 
+1 numeric character: 0 
+7 punctuation characters: []='\'; 
+5 whitespace characters: 	  
+ 
+line2 alphabetic characters: pl 
+1 numeric character: 0 
+7 punctuation characters: []='\'; 
+5 whitespace characters: 	  
+ 
+line2 alphabetic characters: wm 
+1 numeric character: 0 
+7 punctuation characters: []='\'; 
+5 whitespace characters: 	  
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+2 whitespace characters: 
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+2 whitespace characters: 
+ 
+line41 alphabetic characters: voidextractcharscharscharachardcharpcharw 
+0 numeric character:  
+13 punctuation characters: _(*,*,*,*,*); 
+12 whitespace characters:           
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+2 whitespace characters: 
+ 
+line22 alphabetic characters: intmainintargccharargv 
+0 numeric character:  
+7 punctuation characters: (,*[]){ 
+6 whitespace characters:     
+ 
+line6 alphabetic characters: FILEin 
+0 numeric character:  
+2 punctuation characters: *; 
+4 whitespace characters: 	 
+ 
+line7 alphabetic characters: FILEout 
+0 numeric character:  
+2 punctuation characters: *; 
+4 whitespace characters: 	 
+ 
+line30 alphabetic characters: charlinestringholdinginputline 
+0 numeric character:  
+4 punctuation characters: *;// 
+8 whitespace characters: 	     
+ 
+line38 alphabetic characters: charalphabetstringholdingalphabetchars 
+0 numeric character:  
+4 punctuation characters: *;// 
+8 whitespace characters: 	     
+ 
+line36 alphabetic characters: charnumericstringholdingnumericchars 
+0 numeric character:  
+4 punctuation characters: *;// 
+8 whitespace characters: 	     
+ 
+line38 alphabetic characters: charpunctstringholdingpunctuationchars 
+0 numeric character:  
+4 punctuation characters: *;// 
+8 whitespace characters: 	     
+ 
+line38 alphabetic characters: charwspacestringholdingwhitespacechars 
+0 numeric character:  
+4 punctuation characters: *;// 
+8 whitespace characters: 	     
+ 
+line13 alphabetic characters: intnumberLine 
+0 numeric character:  
+1 punctuaton character: ; 
+4 whitespace characters: 	 
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line43 alphabetic characters: checkcommandlineforcorrectnumberofarguments 
+0 numeric character:  
+2 punctuation characters: // 
+10 whitespace characters: 	       
+ 
+line6 alphabetic characters: ifargc 
+1 numeric character: 3 
+5 punctuation characters: (!=){ 
+5 whitespace characters: 	  
+ 
+line36 alphabetic characters: printfUsagesinputfileoutputfilenargv 
+1 numeric character: 0 
+13 punctuation characters: (":%--\",[]); 
+9 whitespace characters: 		     
+ 
+line15 alphabetic characters: exitEXITFAILURE 
+0 numeric character:  
+4 punctuation characters: (_); 
+4 whitespace characters: 		
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line23 alphabetic characters: openinputfileforreading 
+0 numeric character:  
+2 punctuation characters: // 
+7 whitespace characters: 	    
+ 
+line18 alphabetic characters: ifinfopenargvrNULL 
+1 numeric character: 1 
+15 punctuation characters: ((=([],""))==){ 
+8 whitespace characters: 	     
+ 
+line32 alphabetic characters: printfUnabletoreadfromfilesnargv 
+1 numeric character: 1 
+10 punctuation characters: ("%\",[]); 
+11 whitespace characters: 		       
+ 
+line15 alphabetic characters: exitEXITFAILURE 
+0 numeric character:  
+4 punctuation characters: (_); 
+4 whitespace characters: 		
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line24 alphabetic characters: openoutputfileforwriting 
+0 numeric character:  
+2 punctuation characters: // 
+7 whitespace characters: 	    
+ 
+line19 alphabetic characters: ifoutfopenargvwNULL 
+1 numeric character: 2 
+15 punctuation characters: ((=([],""))==){ 
+6 whitespace characters: 	   
+ 
+line31 alphabetic characters: printfUnabletowritetofilesnargv 
+1 numeric character: 2 
+10 punctuation characters: ("%\",[]); 
+11 whitespace characters: 		       
+ 
+line15 alphabetic characters: exitEXITFAILURE 
+0 numeric character:  
+4 punctuation characters: (_); 
+4 whitespace characters: 		
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line24 alphabetic characters: allocatestringsontheheap 
+0 numeric character:  
+2 punctuation characters: // 
+8 whitespace characters: 	     
+ 
+line35 alphabetic characters: linecallocMAXSTRINGLENGTHsizeofchar 
+1 numeric character: 1 
+10 punctuation characters: =(__+,()); 
+6 whitespace characters: 	   
+ 
+line39 alphabetic characters: alphabetcallocMAXSTRINGLENGTHsizeofchar 
+1 numeric character: 1 
+10 punctuation characters: =(__+,()); 
+6 whitespace characters: 	   
+ 
+line38 alphabetic characters: numericcallocMAXSTRINGLENGTHsizeofchar 
+1 numeric character: 1 
+10 punctuation characters: =(__+,()); 
+6 whitespace characters: 	   
+ 
+line36 alphabetic characters: punctcallocMAXSTRINGLENGTHsizeofchar 
+1 numeric character: 1 
+10 punctuation characters: =(__+,()); 
+6 whitespace characters: 	   
+ 
+line37 alphabetic characters: wspacecallocMAXSTRINGLENGTHsizeofchar 
+1 numeric character: 1 
+10 punctuation characters: =(__+,()); 
+6 whitespace characters: 	   
+ 
+line56 alphabetic characters: assertlineNULLalphabetNULLnumericNULLpunctNULLwspaceNULL 
+0 numeric character:  
+21 punctuation characters: (!=&&!=&&!=&&!=&&!=); 
+21 whitespace characters: 	                  
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line78 alphabetic characters: readeachlineininputfileextractalphabeticnumericpunctiationwhitespacecharacters 
+0 numeric character:  
+6 punctuation characters: //,,,, 
+14 whitespace characters: 	           
+ 
+line35 alphabetic characters: whilefgetslineMAXSTRINGLENGTHinNULL 
+0 numeric character:  
+11 punctuation characters: ((,__,)!=){ 
+9 whitespace characters: 	      
+ 
+line42 alphabetic characters: extractcharslinealphabetnumericpunctwspace 
+0 numeric character:  
+8 punctuation characters: _(,,,,); 
+8 whitespace characters: 		    
+ 
+line34 alphabetic characters: fprintfoutlinedcontainsnnumberLine 
+1 numeric character: 1 
+17 punctuation characters: (,"","%+",":\",); 
+10 whitespace characters: 		      
+ 
+line16 alphabetic characters: ifstrlenalphabet 
+1 numeric character: 1 
+6 punctuation characters: (()>){ 
+4 whitespace characters: 		
+ 
+line58 alphabetic characters: fprintfoutdalphabeticcharacterssnintstrlenalphabetalphabet 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line4 alphabetic characters: else 
+0 numeric character:  
+1 punctuaton character: { 
+4 whitespace characters: 		
+ 
+line57 alphabetic characters: fprintfoutdalphabeticcharactersnintstrlenalphabetalphabet 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line15 alphabetic characters: ifstrlennumeric 
+1 numeric character: 1 
+6 punctuation characters: (()>){ 
+4 whitespace characters: 		
+ 
+line53 alphabetic characters: fprintfoutdnumericcharacterssnintstrlennumericnumeric 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line4 alphabetic characters: else 
+0 numeric character:  
+1 punctuaton character: { 
+4 whitespace characters: 		
+ 
+line52 alphabetic characters: fprintfoutdnumericcharactersnintstrlennumericnumeric 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line13 alphabetic characters: ifstrlenpunct 
+1 numeric character: 1 
+6 punctuation characters: (()>){ 
+4 whitespace characters: 		
+ 
+line53 alphabetic characters: fprintfoutdpunctuationcharacterssnintstrlenpunctpunct 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line4 alphabetic characters: else 
+0 numeric character:  
+1 punctuaton character: { 
+4 whitespace characters: 		
+ 
+line51 alphabetic characters: fprintfoutdpunctuatoncharactersnintstrlenpunctpunct 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line14 alphabetic characters: ifstrlenwspace 
+1 numeric character: 1 
+6 punctuation characters: (()>){ 
+4 whitespace characters: 		
+ 
+line54 alphabetic characters: fprintfoutdwhitespacecharacterssnintstrlenwspacewspace 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line4 alphabetic characters: else 
+0 numeric character:  
+1 punctuaton character: { 
+4 whitespace characters: 		
+ 
+line53 alphabetic characters: fprintfoutdwhitespacecharactersnintstrlenwspacewspace 
+0 numeric character:  
+16 punctuation characters: (,"%:%\",()(),); 
+12 whitespace characters: 			       
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+4 whitespace characters: 		
+ 
+line10 alphabetic characters: numberLine 
+0 numeric character:  
+3 punctuation characters: ++; 
+4 whitespace characters: 		
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line14 alphabetic characters: freeheapmemory 
+0 numeric character:  
+2 punctuation characters: // 
+5 whitespace characters: 	  
+ 
+line8 alphabetic characters: freeline 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line12 alphabetic characters: freealphabet 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line11 alphabetic characters: freenumeric 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line9 alphabetic characters: freepunct 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line10 alphabetic characters: freewspace 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line10 alphabetic characters: closefiles 
+0 numeric character:  
+2 punctuation characters: // 
+4 whitespace characters: 	 
+ 
+line8 alphabetic characters: fclosein 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line9 alphabetic characters: fcloseout 
+0 numeric character:  
+3 punctuation characters: (); 
+3 whitespace characters: 	
+ 
+line0 alphabetic character:  
+0 numeric character:  
+0 punctuaton character:  
+3 whitespace characters: 	
+ 
+line17 alphabetic characters: returnEXITSUCCESS 
+0 numeric character:  
+2 punctuation characters: _; 
+4 whitespace characters: 	 
+ 
+line0 alphabetic character:  
+0 numeric character:  
+1 punctuaton character: } 
+0 whitespace character:  

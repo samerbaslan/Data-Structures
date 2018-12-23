@@ -1,0 +1,24 @@
+line 1 contains: 
+5 alphabetic characters: hello 
+0 numeric character:  
+2 punctuation characters: !! 
+1 whitespace character: 
+ 
+line 2 contains: 
+11 alphabetic characters: thisisatest 
+0 numeric character:  
+1 punctuaton character: ! 
+4 whitespace characters:    
+ 
+line 3 contains: 
+17 alphabetic characters: irlyhopethisworks 
+0 numeric character:  
+4 punctuation characters: ,,,, 
+5 whitespace characters:     
+ 
+line 4 contains: 
+0 alphabetic character:  
+10 numeric characters: 1234567890 
+0 punctuaton character:  
+1 whitespace character: 
+ 
